@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">a passionate software engineer that makes games in his spare time 👾</h4>
+<h4 align="left">a passionate software engineer that makes games in his spare time ! 👾</h4>
 
 ###
 
@@ -45,21 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" height="40" alt="threejs logo"  />
-</div>
-
-###
-
-<h3 align="left">🔧 My socials</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/gaspar-rivoire-gaiao/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/TenefouCorp" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="40" alt="twitter logo"  />
-  </a>
 </div>
 
 ###
